@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url('../img/webb.png');
+    
+}
+.wrapper{
+    background-color: white;
+    position: relative;
+    width: 70%;
+}
+.myHeading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+.imgcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.imgcontainer img{
+    margin: 10px;
+}
